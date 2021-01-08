@@ -27,7 +27,7 @@ client.run()
 ```
 
 
-Pour finir lancez le fichier python avec la commande :
+Pour finir lancez le fichier python dans un terminal avec la commande :
 
 ```
 python stop_post.py
