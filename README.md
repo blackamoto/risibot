@@ -11,9 +11,12 @@ Récupérer votre cookie de connexion grâce aux instructions du topic du khey h
 
 Le coller dans stop_post.py dans la variable c.
 ajouter le lien de vos topic favoris en variable dans stop_post.py, par exemple : 
+
+```
 alerte_btc = "http://www.jeuxvideo.com/forums/42-3011927-61017614-1-0-1-0-blabla-alerte-btc.htm"
 ethereum = "https://www.jeuxvideo.com/forums/42-3011927-62269929-373-0-1-0-eth-ethereum-2-0.htm"
 ripple = https://www.jeuxvideo.com/forums/42-3011927-54909192-1-0-1-0-xrp-ripple.htm
+```
 Puis 
 
 codez ce que vous voulez avec la fonction a.add_stop_post() : 
