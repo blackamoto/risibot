@@ -1,3 +1,5 @@
+# AUTEUR ORIGINAL : https://github.com/IngenieurJVC2/jvc.py
+# TUTORIEL ORIGINAL : https://www.jeuxvideo.com/forums/42-51-63087978-1-0-1-0-officiel-jvc-py-api-jvc-pour-poster-etc-opensource-github.htm
 from requests_html import HTMLSession
 import string
 
