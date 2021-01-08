@@ -19,7 +19,7 @@ ripple = https://www.jeuxvideo.com/forums/42-3011927-54909192-1-0-1-0-xrp-ripple
 ```
 Puis 
 
-codez ce que vous voulez avec la fonction a.add_stop_post() : 
+codez ce que vous voulez avec la fonction .add_stop_post() : 
 
 ``` python
 client.add_stop_post(topic_url=alerte_btc, message="AYAAAAAAAA", paire="BTC/USDT", condition=">100000")
