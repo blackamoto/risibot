@@ -22,9 +22,8 @@ Puis
 codez ce que vous voulez avec la fonction a.add_stop_post() : 
 
 ``` python
-client.add_stop_post(topic_url=alerte_btc, message="AYAAAAAAAA", paire="BTC/USDT", condition=">100000"
-client.add_stop_post(topic_url=ethereum, message="Shortez", paire="BTC/USDT", 
-condition=">16990"
+client.add_stop_post(topic_url=alerte_btc, message="AYAAAAAAAA", paire="BTC/USDT", condition=">100000")
+client.add_stop_post(topic_url=ethereum, message="To the moon", paire="ETH/USDT", condition= ">1400") 
 cliet.add_stop_post(topic_url=ripple, message="On vous avait prévenu pourtant", paire="XRP/USDT", condition="<0.10")
 client.run()
 ```
