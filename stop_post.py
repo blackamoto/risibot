@@ -45,3 +45,5 @@ class StopPostLimit():
 
 c=""
 client=StopPostLimit(c)
+
+# AJOUTER VOTRE CODE ICI :
